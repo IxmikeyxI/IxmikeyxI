@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Shipify Projects
-- 🌱 I’m currently learning Jacascript
+- 🔭 I’m currently working on Shopify Projects
+- 🌱 I’m currently learning Javascript
 - 💬 Ask me about Shopify Store Setups
 - 📫 How to reach me: Michael@mbdevelopment.dev
 
